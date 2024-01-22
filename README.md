@@ -1,8 +1,9 @@
-# full-house
+# Full-house
 Casus ZieDit met de groep Full House.
 
 Plaats voor alle gezamelijk code. 
 
+##De Toegevoegde code. 
 
 ### Bono's contributie (22-01)
 * huisregels
