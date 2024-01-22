@@ -11,3 +11,6 @@ Plaats voor alle gezamelijk code.
 * Timetable
 * parkeer
 * parkeergelegenheid
+
+### Lorenzo's contributie (22-01)
+* lokaalreserveren
