@@ -1,0 +1,16 @@
+{
+    "schema": [
+      {"tijdslot": "09:00-10:00", "sessie": {"Lokaal": "b.3.301", "Presentatie": "Presentatie 1"}},
+      {"tijdslot": "10:00-11:00", "sessie": {"Lokaal": "b.3.302", "Presentatie": "Presentatie 2"}},
+      {"tijdslot": "11:00-12:00", "sessie": {"Lokaal": "b.3.303", "Presentatie": "Presentatie 3"}},
+      {"tijdslot": "12:00-12:30", "sessie": {"Lokaal": "Centrale Hal", "Presentatie": "Pauze"}},
+      {"tijdslot": "12:30-13:30", "sessie": {"Lokaal": "b.3.304", "Presentatie": "Presentatie 4"}},
+      {"tijdslot": "12:30-13:30", "sessie": {"Lokaal": "b.3.305", "Presentatie": "Presentatie 5"}},
+      {"tijdslot": "13:30-14:30", "sessie": {"Lokaal": "b.3.306", "Presentatie": "Presentatie 6"}},
+      {"tijdslot": "13:30-14:30", "sessie": {"Lokaal": "b.3.307", "Presentatie": "Presentatie 7"}},
+      {"tijdslot": "14:30-15:00", "sessie": {"Lokaal": "b.3.308", "Presentatie": "Presentatie 8"}},
+      {"tijdslot": "14:30-15:00", "sessie": {"Lokaal": "b.3.309", "Presentatie": "Presentatie 9"}},
+      {"tijdslot": "14:30-15:00", "sessie": {"Lokaal": "b.3.310", "Presentatie": "Presentatie 10"}}
+    ]
+  }
+  
