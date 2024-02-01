@@ -15,3 +15,6 @@ Plaats voor alle gezamelijk code.
 
 ### Lorenzo's contributie (22-01)
 * lokaalreserveren
+
+
+### Kayleighs contributie
